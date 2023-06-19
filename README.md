@@ -1,4 +1,4 @@
-### Hello! I'm Tuant Camargo 👋
+### Hello! I'm Tauan Camargo 👋
 
 I'm a solution-oriented developer, a lifelong learner, and a lover of JavaScript. I'm passionate about creating new things and motivated by the opportunity to positively impact people's lives through software development.
 
