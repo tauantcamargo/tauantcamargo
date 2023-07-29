@@ -43,7 +43,4 @@ My [website](https://bunchsoftware.dev) is a work in progress, but feel free to 
 <center>
   <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=tauantcamargo&theme=dark" />
 </center>
-<center>
-  <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauantcamargo&theme=dark" />
-</center>
 
