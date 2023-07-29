@@ -41,5 +41,9 @@ My [website](https://bunchsoftware.dev) is a work in progress, but feel free to 
   <img width="400px" align="left" src="https://streak-stats.demolab.com/?user=tauantcamargo&theme=dark" />
 </center>
 <center>
-  <img width="400px" align="right" src="[https://github-readme-stats.vercel.app/api?username=tauantcamargo" />
+  <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=tauantcamargo&theme=dark" />
 </center>
+<center>
+  <img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauantcamargo&theme=dark" />
+</center>
+
