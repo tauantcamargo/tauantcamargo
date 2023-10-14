@@ -16,6 +16,7 @@ I have experience in a wide range of technologies including:
 - Swift, UIKit & SwiftUI
 - React Native
 - Node.js, Nest.js & Express
+- Java (Spring Boot)
 - Ruby on Rails
 - Jira
 - MVC, MVVM, Clean Architecture, DDD
