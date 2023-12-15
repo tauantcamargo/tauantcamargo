@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+I'm+Tauan+FullStack+developer%C2%A0%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
-<a href="https://github.com/tauantcamargo"><img align="right" src="https://media.licdn.com/dms/image/D4D03AQE3yuXqDRxW-w/profile-displayphoto-shrink_800_800/0/1697164448869?e=1702512000&v=beta&t=0Z41xhUhsOiKTM41LKAMLdeyizDVaYM59SL-2LrK7pg" align="left" width="300" alt="self"/></a>
+<a href="https://github.com/tauantcamargo"><img align="right" src="https://avatars.githubusercontent.com/u/16005211?v=4" align="left" width="300" alt="self"/></a>
 
 
 I'm a solution-oriented developer, a lifelong learner, and a lover of JavaScript. I'm passionate about creating new things and motivated by the opportunity to positively impact people's lives through software development.
