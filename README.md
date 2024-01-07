@@ -58,6 +58,8 @@ Check out my:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tauan-tathiell/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tauantcamargo.dev) [![Github](https://img.shields.io/badge/Github-E5505E?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/tauantcamargo)[![Tauan Camargo Website](https://img.shields.io/badge/TauanTCamargo-000000?style=for-the-badge&logo=react&logoColor=white)](https://bunchsoftware.dev)
 
+[![Tauan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tauantcamargo)](https://github.com/tauantcamargo/github-readme-activity-graph)
+
 | ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tauantcamargo&layout=compact&theme=radical) | ![Athirson's GitHub stats](https://github-readme-stats.vercel.app/api?username=tauantcamargo&include=private&theme=radical&show_icons=true&hide_border=True&line_height=20&PAT_1) |
 | ----------- | ----------- |
 | ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=tauantcamargo&theme=radical&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tauantcamargo&theme=radical) |
