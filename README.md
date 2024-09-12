@@ -4,7 +4,13 @@
 <a href="https://github.com/tauantcamargo"><img align="right" src="https://avatars.githubusercontent.com/u/16005211?v=4" align="left" width="300" alt="self"/></a>
 
 
-I'm a solution-oriented developer, a lifelong learner, and a lover of JavaScript. I'm passionate about creating new things and motivated by the opportunity to positively impact people's lives through software development.
+Full-Stack Software Engineer with 8+ Years of Experience.
+
+I am a seasoned developer passionate about working with web, mobile, and desktop applications. My expertise primarily lies in TypeScript (TS), JavaScript (JS), React, React Native, Next.js, and Node.js. Additionally, I have experience with Swift, SwiftUI, Golang, and Ruby on Rails.
+
+I am proficient in using NestJs, Express, Gin, Docker, CI/CD, Git, GitHub, AWS, MongoDB, PostgresSQL, MySQL.
+
+In my free time, I enjoy spending quality time with my family and studying, always reading books or watching something about Design Patterns, Mobile Patterns, and GitOps.
 
 ### Skills and Experience 🛠️
 
