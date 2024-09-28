@@ -67,7 +67,7 @@ Check out my:
 
 [![Tauan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tauantcamargo)](https://github.com/tauantcamargo/github-readme-activity-graph)
 
-| ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tauantcamargo&layout=compact&theme=radical) | ![Athirson's GitHub stats](https://github-readme-stats.vercel.app/api?username=tauantcamargo&include=private&theme=radical&show_icons=true&hide_border=True&line_height=20&PAT_1) |
+| ![Github Top Langs](https://github-readme-stats-murex-nine-56.vercel.app/api/top-langs/?username=tauantcamargo&layout=compact&theme=radical) | ![Tauan's GitHub stats](https://github-readme-stats-murex-nine-56.vercel.app/api?username=tauantcamargo&include=private&theme=radical&show_icons=true&hide_border=True&line_height=20&PAT_1) |
 | ----------- | ----------- |
 | ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=tauantcamargo&theme=radical&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tauantcamargo&theme=radical) |
 | ![Trophies](https://github-profile-trophy.vercel.app/?username=tauantcamargo&row=1&column=6&theme=radical&margin-w=15&margin-h=15) | ![Trophies](https://github-profile-trophy.vercel.app/?username=tauantcamargo&row=1&column=6&theme=radical&margin-w=15&margin-h=15) |
