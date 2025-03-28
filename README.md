@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+I'm+Tauan+FullStack+developer%C2%A0%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
-<a href="https://github.com/tauantcamargo"><img align="right" src="https://avatars.githubusercontent.com/u/16005211?v=4" align="left" width="300" alt="self"/></a>
+<a href="https://github.com/tauantcamargo"><img align="right" src="https://avatars.githubusercontent.com/u/16005211?s=400&u=03d25cfe5b4b2551f05e99b15f32d0610d9e60d3&v=4" align="left" width="300" alt="self"/></a>
 
 
 Full-Stack Software Engineer with 8+ Years of Experience.
