@@ -4,7 +4,7 @@
 <a href="https://github.com/tauantcamargo"><img align="right" src="https://avatars.githubusercontent.com/u/16005211?s=400&u=03d25cfe5b4b2551f05e99b15f32d0610d9e60d3&v=4" align="left" width="300" alt="self"/></a>
 
 
-Full-Stack Software Engineer with 8+ Years of Experience.
+Full-Stack Software Engineer with 8+ Years of Experience.             [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee&style=for-the-badge)](https://buymeacoffee.com/tauantcamargo)
 
 I am a seasoned developer passionate about working with web, mobile, and desktop applications. My expertise primarily lies in TypeScript (TS), JavaScript (JS), React, React Native, Next.js, and Node.js. Additionally, I have experience with Swift, SwiftUI, Golang, and Ruby on Rails.
 
